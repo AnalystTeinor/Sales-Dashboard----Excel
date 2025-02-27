@@ -5,6 +5,8 @@
 
 The dataset includes information on the orders, products, and pertinent dates.  It is your responsibility to examine this dataset and find important information about consumer behavior, sales trends, and product performance. 
 
+### Tool Used
+Excel
 
 ### Dashboard
 
