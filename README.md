@@ -18,6 +18,9 @@ Create three interactive dashboard and answer the following key business questio
 5. Customer Spending Analysis by country: Understand how much customers are spending base on their location. 
 6. Sales Performance by age group: Track the sales performance of age. 
 
+### Challengings 
+The dataset was modified with extra values to modify the product category across the years because it had a fixed product category across different years. 
+
 ### Findings 
 - The financial data indicates strong revenue generation and a healthy profit margin. Maintaining cost efficiency while expanding revenue streams could further enhance profitability.
 - Accessories contribute the highest revenue, followed by bikes and clothing. Strategic investment in accessories and bikes could further strengthen overall sales performance.
